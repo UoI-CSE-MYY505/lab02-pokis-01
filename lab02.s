@@ -7,7 +7,7 @@ array: .word 1, 0, 1, 12, 0, 1, 4
 
     la a0, array
     li a1, 7    # unsigned
-    li a2, 3   
+    li a2, 1   
 prog:
 #-----------------------------
     add s0, zero,zero
